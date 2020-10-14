@@ -1,0 +1,57 @@
+         Bubble Sort:: Element Count :: 100 :: Execution Time : 1.63MS    Current Date Time ::  01/10/2020 06:21:39
+          Merge Sort:: Element Count :: 100 :: Execution Time : 0.536MS    Current Date Time ::  01/10/2020 06:21:40
+Parallel Bubble Sort:: Element Count :: 100 :: Execution Time : 2.335MS    Current Date Time ::  01/10/2020 06:21:40
+ Parallel Merge Sort:: Element Count :: 100 :: Execution Time : 234.541MS    Current Date Time ::  01/10/2020 06:21:41
+ Parallel Merge Sort:: Element Count :: 1000 :: Execution Time : 228.686MS    Current Date Time ::  01/10/2020 06:32:23
+         Bubble Sort:: Element Count :: 2000 :: Execution Time : 641.982MS    Current Date Time ::  11/10/2020 04:19:41
+         Bubble Sort:: Element Count :: 200 :: Execution Time : 6.043MS    Current Date Time ::  11/10/2020 04:19:45
+          Merge Sort:: Element Count :: 200 :: Execution Time : 1.094MS    Current Date Time ::  11/10/2020 04:19:46
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 233.907MS    Current Date Time ::  11/10/2020 04:19:47
+ Parallel Merge Sort:: Element Count :: 200 :: Execution Time : 196.229MS    Current Date Time ::  11/10/2020 04:19:49
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 195.388MS    Current Date Time ::  11/10/2020 04:19:51
+         Bubble Sort:: Element Count :: 1000 :: Execution Time : 156.476MS    Current Date Time ::  11/10/2020 04:20:08
+          Merge Sort:: Element Count :: 1000 :: Execution Time : 6.066MS    Current Date Time ::  11/10/2020 04:20:10
+Parallel Bubble Sort:: Element Count :: 1000 :: Execution Time : 237.964MS    Current Date Time ::  11/10/2020 04:20:12
+ Parallel Merge Sort:: Element Count :: 1000 :: Execution Time : 212.847MS    Current Date Time ::  11/10/2020 04:20:14
+         Bubble Sort:: Element Count :: 500 :: Execution Time : 39.673MS    Current Date Time ::  11/10/2020 04:20:41
+          Merge Sort:: Element Count :: 500 :: Execution Time : 3.039MS    Current Date Time ::  11/10/2020 04:20:46
+Parallel Bubble Sort:: Element Count :: 500 :: Execution Time : 235.326MS    Current Date Time ::  11/10/2020 04:20:48
+         Bubble Sort:: Element Count :: 500 :: Execution Time : 39.589MS    Current Date Time ::  11/10/2020 04:20:50
+          Merge Sort:: Element Count :: 500 :: Execution Time : 2.648MS    Current Date Time ::  11/10/2020 04:20:51
+         Bubble Sort:: Element Count :: 500 :: Execution Time : 40.082MS    Current Date Time ::  11/10/2020 04:20:52
+Parallel Bubble Sort:: Element Count :: 500 :: Execution Time : 206.329MS    Current Date Time ::  11/10/2020 04:20:54
+ Parallel Merge Sort:: Element Count :: 500 :: Execution Time : 190.752MS    Current Date Time ::  11/10/2020 04:20:58
+         Bubble Sort:: Element Count :: 200 :: Execution Time : 6.006MS    Current Date Time ::  11/10/2020 04:21:51
+          Merge Sort:: Element Count :: 200 :: Execution Time : 1.077MS    Current Date Time ::  11/10/2020 04:21:52
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 222.208MS    Current Date Time ::  11/10/2020 04:21:53
+ Parallel Merge Sort:: Element Count :: 200 :: Execution Time : 198.032MS    Current Date Time ::  11/10/2020 04:21:55
+         Bubble Sort:: Element Count :: 200 :: Execution Time : 5.452MS    Current Date Time ::  11/10/2020 04:22:55
+          Merge Sort:: Element Count :: 200 :: Execution Time : 1.071MS    Current Date Time ::  11/10/2020 04:22:56
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 201.933MS    Current Date Time ::  11/10/2020 04:22:57
+ Parallel Merge Sort:: Element Count :: 200 :: Execution Time : 204.208MS    Current Date Time ::  11/10/2020 04:22:58
+         Bubble Sort:: Element Count :: 200 :: Execution Time : 22.456MS    Current Date Time ::  11/10/2020 22:23:54
+          Merge Sort:: Element Count :: 200 :: Execution Time : 1.117MS    Current Date Time ::  11/10/2020 22:23:56
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 891.538MS    Current Date Time ::  11/10/2020 22:23:58
+ Parallel Merge Sort:: Element Count :: 200 :: Execution Time : 447.967MS    Current Date Time ::  11/10/2020 22:23:59
+ Parallel Merge Sort:: Element Count :: 200 :: Execution Time : 477.566MS    Current Date Time ::  11/10/2020 22:24:00
+ Parallel Merge Sort:: Element Count :: 200 :: Execution Time : 206.724MS    Current Date Time ::  11/10/2020 22:24:02
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 218.129MS    Current Date Time ::  11/10/2020 22:24:05
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 181.661MS    Current Date Time ::  11/10/2020 22:24:06
+          Merge Sort:: Element Count :: 200 :: Execution Time : 1.125MS    Current Date Time ::  11/10/2020 22:24:07
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 253.612MS    Current Date Time ::  11/10/2020 22:24:09
+         Bubble Sort:: Element Count :: 200 :: Execution Time : 6.197MS    Current Date Time ::  11/10/2020 22:24:50
+          Merge Sort:: Element Count :: 200 :: Execution Time : 1.204MS    Current Date Time ::  11/10/2020 22:24:51
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 209.692MS    Current Date Time ::  11/10/2020 22:24:52
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 198.221MS    Current Date Time ::  11/10/2020 22:24:54
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 225.514MS    Current Date Time ::  11/10/2020 22:25:04
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 189.354MS    Current Date Time ::  11/10/2020 22:25:05
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 210.474MS    Current Date Time ::  11/10/2020 22:26:03
+ Parallel Merge Sort:: Element Count :: 200 :: Execution Time : 222.659MS    Current Date Time ::  11/10/2020 22:26:32
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 193.748MS    Current Date Time ::  11/10/2020 22:26:34
+          Merge Sort:: Element Count :: 200 :: Execution Time : 1.075MS    Current Date Time ::  11/10/2020 22:26:35
+         Bubble Sort:: Element Count :: 200 :: Execution Time : 6.214MS    Current Date Time ::  11/10/2020 22:26:37
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 221.723MS    Current Date Time ::  11/10/2020 22:28:30
+Parallel Bubble Sort:: Element Count :: 200 :: Execution Time : 226.69MS    Current Date Time ::  11/10/2020 22:28:46
+          Merge Sort:: Element Count :: 200 :: Execution Time : 1.065MS    Current Date Time ::  11/10/2020 22:28:48
+         Bubble Sort:: Element Count :: 200 :: Execution Time : 6.038MS    Current Date Time ::  11/10/2020 22:28:49
+ Parallel Merge Sort:: Element Count :: 200 :: Execution Time : 202.269MS    Current Date Time ::  11/10/2020 22:28:50
