@@ -1,0 +1,5 @@
+    Current Date Time ::  12/10/2020 07:26:03:::Linear Search:: Searching Pattern :: he :: Execution Time : 106.11MS :: Average Execution Time : 107.227MS :: No.Comparisons : 878096 :: frequency : 1
+    Current Date Time ::  12/10/2020 07:26:40:::Linear Search:: Searching Pattern :: he :: Execution Time : 105.391MS :: Average Execution Time : 105.569MS :: No.Comparisons : 878096 :: frequency : 1
+    Current Date Time ::  12/10/2020 07:26:40:::Linear Search:: Searching Pattern :: he :: Execution Time : 0.01MS :: Average Execution Time : 0.011MS :: No.Comparisons : 878096 :: frequency : 1
+    Current Date Time ::  12/10/2020 07:26:41:::Linear Search:: Searching Pattern :: he :: Execution Time : 0.521MS :: Average Execution Time : 0.544MS :: No.Comparisons : 878096 :: frequency : 1
+    Current Date Time ::  12/10/2020 07:26:52:::Linear Search:: Searching Pattern :: he :: Execution Time : 1999.836MS :: Average Execution Time : 2040.853MS :: No.Comparisons : 878096 :: frequency : 1
