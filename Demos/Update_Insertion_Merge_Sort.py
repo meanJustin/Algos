@@ -77,19 +77,36 @@ def method_One_Merge (arr_A, arr_B, sort_func) -> list:
 
     # If the last element in A is smaller than the first element in B then move
     # array A followed by array B to array M and return the Merged array
+    if a_len == 0 or b_len == 0 :
+        return
     if arr_A[a_len-1] <= arr_B[0] :
         return
 
     last_A = arr_A.pop()            # Popup the last element in A and store that in last_A
     first_B = arr_B.pop(0)          # Popup the first element in B and store that in last_A
 
+    for i in range(b_len-1) :       # Insert the last element of A into Array B
+        if arr_B[i] > last_A :      # Looping until meet the first greater value than last_A
+            arr_B.insert(i, last_A)
+            break
+        if i == b_len - 1 :         # If not find then append the last_A in Array B
+            arr_B.append(i, last_A)
+
+
+    for i in range(a_len - 2, -1, -1) :     # Insert the first element of B into Array A
+        if arr_A[i] < first_B :             # Looping until meet the first smaller value than first_B
+            arr_A.insert(i + 1, first_B)
+            break
+        if i == 0:                          # If not find then insert the first_B into first in Array A
+            arr_A.insert(0, first_B)
+
     # Add them to the other side of array
-    arr_B.append(last_A)
-    arr_A.append(first_B)
+    # arr_B.append(last_A)
+    # arr_A.append(first_B)
 
     # sort both of arrays with sort_Functions
-    sort_func(arr_A)
-    sort_func(arr_B)
+    # sort_func(arr_A)
+    # sort_func(arr_B)
 
     # Recall until merge has done
     method_One_Merge(arr_A, arr_B, sort_func)
@@ -277,14 +294,14 @@ if __name__ == "__main__":
     print ("Parallel merge sort : ", dur_time)
 
 
-    # arr_A = [1,3,5,7,9]
-    # arr_B = [2,4,6,8,10]
+    arr_A = [1,3,5,7,9]
+    arr_B = [2,4,6,8,10]
 
-    # merged = []
+    merged = []
 
-    # method_One_Merge(arr_A, arr_B, merged)
-    # print ("+===============================")
-    # print(merged)
+    method_One_Merge(arr_A, arr_B, merged)
+    print ("+===============================")
+    print(arr_A + arr_B)
 
     # arr_A = [1,3,5,7,9]
     # arr_B = [2,4,6,8,10]
